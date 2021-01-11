@@ -1,2 +1,2 @@
 # ML-Projects
-Few applications of Machine Learning
+Few Machine Learning projects.
