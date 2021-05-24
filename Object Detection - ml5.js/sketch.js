@@ -9,10 +9,10 @@ function preload() { //load model before anything happens
 
 function setup() { // create file input to load image
   input = createFileInput(handleFile);
-  input.position(360,750);
+  input.position(360,725);
   input.style('font-size', '30px');
   button = createButton('Predict');
-  button.position(1000,750);
+  button.position(1000,725);
   button.style('font-size', '30px');
   input.style('color', 'white');
   button.style('border-radius', '25%');
